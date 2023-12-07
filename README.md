@@ -2,6 +2,8 @@
 
 Official code for the paper "Inferring Latent Class Statistics from Text for Robust Visual Few-Shot Learning" accepted at R0-FoMo Workshop at **NeurIPS 2023** on Robustness of Few-shot and Zero-shot Learning in Foundation Models: https://arxiv.org/pdf/2311.14544.pdf
 
+![plot](./static/main_figure.png)
+
 ## Datasets 
 First download the datasets by following the steps described [here](https://github.com/linzhiqiu/cross_modal_adaptation/blob/main/DATASETS.md) for cross domain and [here](https://github.com/visipedia/inat_comp/tree/master/2021#data) for iNaturalist dataset.
 
